@@ -1,1 +1,5 @@
 .idea/
+backups/
+data/
+tmp/
+db.yaml
