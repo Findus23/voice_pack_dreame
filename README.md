@@ -12,3 +12,6 @@ Interestingly on my L10 Pro running `Valetudo 2022.03.0` the .tar.gz doesn't see
 ```
 scp output/* root@staubsauger.fritz.box:/data/personalized_voice/GLADOS
 ```
+
+-----
+Thanks to https://github.com/ccoors/dreame_voice_packs for the inspiration and the list of sounds and 15.ai for the voice generation.
