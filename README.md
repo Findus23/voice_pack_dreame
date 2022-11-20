@@ -3,9 +3,9 @@
 Uses voice generation by [15.ai](https://15.ai/).
 
 MD5 sum of the prepackaged `voice_pack.tar.gz`:  
-`c34109f9012b855a42096d7987dd9bd5`
+`756338796c66bf889587435c33c109c4`
 
-Works at least with `L10 Pro` and `Z10 Pro`.
+Works at least with `L10 Pro`, `Z10 Pro`, and `W10`.
 
 ## Installation
 
@@ -13,7 +13,8 @@ Works at least with `L10 Pro` and `Z10 Pro`.
 1. Enter the following information in the "Voice packs" section:
     - URL: `https://github.com/Findus23/voice_pack_dreame/raw/main/voice_pack.tar.gz`
     - Language Code: `GLADOS`
-    - Hash: `c34109f9012b855a42096d7987dd9bd5`
+    - Hash: `756338796c66bf889587435c33c109c4`
+    - File size: `4325080`
 1. Click "Set Voice Pack"
 
 Interestingly on my L10 Pro running `Valetudo 2022.03.0` the .tar.gz doesn't seem to work and the newly created folder `/data/personalized_voice/GLADOS` stays empty.
