@@ -5,7 +5,7 @@ Uses voice generation by [15.ai](https://15.ai/).
 MD5 sum of the prepackaged `voice_pack.tar.gz`:  
 `8ebfabb9e23e169a5c9b867266f9d1ef`
 
-Works at least with `L10 Pro`, `Z10 Pro` and `W10`.
+Works at least with `L10 Pro`, `Z10 Pro`, `W10`, and `D9`.
 
 ## Installation
 
